@@ -1,0 +1,37 @@
+.top{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo{
+    width: 98px;
+    height: 217px;
+
+}
+
+.informations{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.email , .mdp{
+    width: 279px;
+    height: 76px;
+    background: #EBEBEB;
+    border-radius: 50px;
+    border: none;
+    margin-top: 65px;
+    text-align: center;
+    font-size: 1em;
+
+
+}
+
+.mdp{
+    margin-top: 35px;
+}
